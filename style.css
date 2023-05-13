@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+h1{
+  font-family:Pacifico ;
+  text-align: center;
+  padding: 10px;
+}
+body{
+  width: 100%;
+  height: 100vh;
+  box-sizing: border-box;
+  background: rgb(247,237,247);
+  background: linear-gradient(34deg, rgba(247,237,247,1) 0%, rgba(255,159,245,1) 50%, rgba(250,250,250,1) 100%); 
+  
+}
+input{
+  width: 250px;
+}
+.box{
+  text-align: center;
+}
+.animecon{
+  margin: 50px auto;
+}
+.button{
+  display: flex;
+  justify-content: space-between;
+}
